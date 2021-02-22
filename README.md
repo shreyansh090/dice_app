@@ -4,4 +4,4 @@ A Dice Roller App
 
 ## Getting Started
 
-Download the Apk file here
+Get the screen recording here https://youtu.be/KHm2F05udKM
